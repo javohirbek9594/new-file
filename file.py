@@ -145,3 +145,9 @@ d = Core()
 print(d.getAllUsers())
 
 # github
+
+
+
+
+print("Malumot o'chirildi.")
+
